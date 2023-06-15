@@ -21,5 +21,5 @@ python img_separator.py
 python nobject.py
 
 ```
-![Test Image 1](image/noobj.png)
+![Test Image 1](noobj.png)
 ![Test Image 2](image/obj.png)

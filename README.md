@@ -21,5 +21,8 @@ python img_separator.py
 python nobject.py
 
 ```
-![Test Image 1](noobj.png)
-![Test Image 2](image/obj.png)
+### sample
+There is any color found remained in the directory
+
+![Remove Image 1](noobj.png)
+![remain Image 2](obj.png)

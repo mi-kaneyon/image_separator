@@ -17,4 +17,9 @@ python img_separator.py
 - target for object detection in my case
 - change parameter you can remove extra image in your sepcified directory
 
+```
+python nobject.py
 
+```
+![Test Image 1](image/noobj.png)
+![Test Image 2](image/obj.png)

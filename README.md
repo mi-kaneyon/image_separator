@@ -26,3 +26,6 @@ There is any color found remained in the directory
 
 ![Remove Image 1](noobj.png)
 ![remain Image 2](obj.png)
+
+### bboxer.py
+- It is still alpha version. please take note it.

@@ -28,4 +28,4 @@ There is any color found remained in the directory
 ![remain Image 2](obj.png)
 
 ### bboxer.py
-- It is still alpha version. please take note it.
+- added autoannotation bbox. still under trial version.

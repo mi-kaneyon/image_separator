@@ -29,3 +29,14 @@ There is any color found remained in the directory
 
 ### bboxer.py
 - added autoannotation bbox. still under trial version.
+
+
+### jsoncheck.py
+- simple json file id and name checker
+- If annotation file so many time, open file is difficult or spend lontime. easy to see!
+
+
+```
+python jsoncheck.py
+
+```
